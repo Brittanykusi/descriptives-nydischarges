@@ -1,6 +1,6 @@
 # descriptives-nydischarges
 
-## This descriptive analysis should be detailed enough so a physician or nurse could understand what information is contained in the dataset, and what potentially questions might be asked and answered.
+## This descriptive analysis should be detailed enough so a physician or nurse could understand what information is contained in the dataset and what potential questions might be asked and answered.
 
 ## IMPORT PACKAGES
 - https://github.com/Brittanykusi/descriptives-nydischarges/blob/19150ef029edb27ceff067315d11e79cae5f865f/Script/nydischarges.py#L6-L11
@@ -18,7 +18,7 @@
 - https://github.com/Brittanykusi/descriptives-nydischarges/blob/19150ef029edb27ceff067315d11e79cae5f865f/Script/nydischarges.py#L48-L49
 
 ### EXAMPLE
-- focus on Facility 1169
+- Focus on Facility 1169
   - https://github.com/Brittanykusi/descriptives-nydischarges/blob/19150ef029edb27ceff067315d11e79cae5f865f/Script/nydischarges.py#L57-L70
-- tableone
+- Tableone
   - https://github.com/Brittanykusi/descriptives-nydischarges/blob/19150ef029edb27ceff067315d11e79cae5f865f/Script/nydischarges.py#L76-L91
